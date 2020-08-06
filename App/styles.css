@@ -1,0 +1,40 @@
+.header-body{
+    align-self: center;
+    text-align: center;
+}
+.app-body{
+    background-color: #1a1a1a
+}
+.header-text{
+    color:whitesmoke;
+    font: bold Helvetica, Verdana, sans-serif
+}
+.list-body{
+    background-color: whitesmoke; 
+    margin: auto; 
+    width: 50%; 
+    border: 3px solid gainsboro;
+    padding: 10px;
+}
+.product{
+    background-color: lightgray;
+    margin: 10;
+}
+.product:hover {
+    background: #eee;
+    cursor: pointer;
+}
+.product-name {
+    padding-top: 10px;
+    padding-left:20px;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: medium;
+}
+.product-price {
+    padding-bottom: 10px;
+    padding-left:20px;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: medium;
+}
